@@ -1,0 +1,3 @@
+med_alfa_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: MedAlfaBundle:Default:index }
